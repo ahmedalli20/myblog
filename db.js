@@ -1,9 +1,7 @@
-const rings = require("./data/rings");
-const watches = require("./data/watches");
-const necklaces = require("./data/necklaces")
+const blogs = require("./data/blogs");
+
 
 module.exports = {
-    rings,
-    watches,
-    necklaces
+    blogs,
+   
 }
